@@ -1,6 +1,6 @@
 # Project 2 - Veterinary management 🐶
 
-## Árbol de Trabajo
+## Árbol de Trabajo 📂
 ```
 └── 📁Backend-Frontend
     └── README.md
@@ -76,6 +76,51 @@
                 └── Restablecer.jsx
                 └── Visualizar.jsx
 ```
+## Clonación e Instalación ⌨️
+Para acceder al proyecto se debe realizar la clonación del mismo mediante:
+```
+git clone https://github.com/brittanypallasco2003/api-veterinaria.git
+```
+> [!NOTE]
+>
+> Este proyecto trabaja con el sistema de módulos ES Modules
+
+### Instalación de Dependencias
+
+> [!IMPORTANT]
+>
+> Una vez clonado el repositorio se debe correr, por terminal, el siguente comando para poder instalar las dependencias correspondientes al proyecto.
+
+```
+npm i
+```
+
+## Environment Variables 🗄️
+### Backend ⚙️
+**Cadena de conexión BDD:**
+
+`MONGODB_URI`
+
+**Servidor SMTP:**
+
+`URL_FRONTEND` 
+`HOST_MAILTRAP`
+`PORT_MAILTRAP`
+`USER_MAILTRAP`
+`PASS_MAILTRAP`
+
+> [!NOTE]
+>
+> Este sistema tiene un enfoque Stateless, por lo tanto, se tiene una variable de entorno para el secreto JWT que permitirá firmar y verificar la autenticidad del token.
+
+**Jason Web Token**
+
+`JWT_SECRET`
+
+### Frontend 🎨
+
+`VITE_BACKEND_URL`
+
 Landing Page
 ------
 ![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-1.png)
