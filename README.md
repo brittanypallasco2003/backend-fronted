@@ -139,6 +139,8 @@ Forgot Password
 Confirm email
 ------
 ![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-6.png)
+![image](https://github.com/brittanypallasco2003/backend-frontend/assets/117743650/75f7eb86-529f-4393-b3d4-0e6701ab9b1c)
+
 
 Not Found
 ------
