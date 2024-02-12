@@ -79,17 +79,14 @@
 ## Clonación e Instalación ⌨️
 Para acceder al proyecto se debe realizar la clonación del mismo mediante:
 ```
-git clone https://github.com/brittanypallasco2003/api-veterinaria.git
+git clone https://github.com/brittanypallasco2003/backend-frontend.git
 ```
-> [!NOTE]
->
-> Este proyecto trabaja con el sistema de módulos ES Modules
 
 ### Instalación de Dependencias
 
 > [!IMPORTANT]
 >
-> Una vez clonado el repositorio se debe correr, por terminal, el siguente comando para poder instalar las dependencias correspondientes al proyecto.
+> Una vez clonado el repositorio se debe correr, por diferentes terminales e ingresar por los directorios del backend y frontend, el siguente comando para poder instalar las dependencias correspondientes al proyecto.
 
 ```
 npm i
