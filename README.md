@@ -135,6 +135,7 @@ Register
 Forgot Password
 ------
 ![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-4.png)
+![image](https://github.com/brittanypallasco2003/backend-frontend/assets/117743650/36a6eadb-3d46-4a40-8d94-448215b91d50)
 
 Confirm email
 ------
