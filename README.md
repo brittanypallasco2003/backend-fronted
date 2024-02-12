@@ -126,6 +126,7 @@ Landing Page
 Login
 ------
 ![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-2.png)
+![image](https://github.com/brittanypallasco2003/backend-frontend/assets/117743650/d1ea098b-da17-4c72-885b-1cd9993cb65e)
 
 Register
 ------
