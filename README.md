@@ -131,6 +131,7 @@ Register
 ------
 ![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-3.png)
 ![image](https://github.com/brittanypallasco2003/backend-frontend/assets/117743650/2ed80353-b340-4378-8f65-e144c125779c)
+![image](https://github.com/brittanypallasco2003/backend-frontend/assets/117743650/120a362c-1c10-4c7c-ad52-541c85bf1c7c)
 
 Forgot Password
 ------
