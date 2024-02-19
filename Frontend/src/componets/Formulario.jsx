@@ -86,6 +86,7 @@ export const Formulario = ({ paciente }) => {
           className="border-2 w-full p-2 mt-2 placeholder-gray-400 rounded-md mb-5"
           placeholder="nombre de la mascota"
           name="nombre"
+          value={form.nombre}
           onChange={handleChange}
         />
       </div>
@@ -102,6 +103,7 @@ export const Formulario = ({ paciente }) => {
           className="border-2 w-full p-2 mt-2 placeholder-gray-400 rounded-md mb-5"
           placeholder="nombre del propietario"
           name="propietario"
+          value={form.propietario}
           onChange={handleChange}
         />
       </div>
